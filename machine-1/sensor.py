@@ -46,7 +46,7 @@ def main():
         while True:
             temp = round(random.uniform(TEMP_MIN, TEMP_MAX), 2)
             press = round(random.uniform(PRESS_MIN, PRESS_MAX), 2)
-            current_time = datetime.datetime.utcnow().isoformat()
+            current_time = datetime.datetime.now().isoformat()
 
             temp_node.set_value(ua.DataValue(ua.Variant(temp, ua.VariantType.Float)))
             press_node.set_value(ua.DataValue(ua.Variant(press, ua.VariantType.Float)))
