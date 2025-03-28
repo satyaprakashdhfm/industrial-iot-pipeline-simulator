@@ -1,0 +1,5 @@
+database/
+.system/
+*.log
+*.cache
+venv/
