@@ -47,9 +47,5 @@ Machine-1 / Machine-2  ->  Gateway (OPC UA)  ->  MQTT Broker  ->  MQTT Client  -
 * Store raw data in Data Lake Gen2 and processed results in Azure SQL / Synapse.
 * Build dashboards with Power BI and models with Azure Machine Learning; deploy models to IoT Edge for local action.
 
-**License & contact**
-
-* Add your preferred license (MIT recommended for demos).
-* For questions or help adding Azure deployment scripts, include a short note in the repo and I’ll provide the next steps.
-
-Use this as README.md in your repo root. If you want, I can also create a condensed “Quick Architecture” PNG and a one-file Azure deployment checklist to go with it.
+ 
+ 
