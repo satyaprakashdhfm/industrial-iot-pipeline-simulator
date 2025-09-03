@@ -1,4 +1,4 @@
-<img width="436" height="124" alt="image" src="https://github.com/user-attachments/assets/b720144a-6a2c-4f56-88b2-9aeda806b5e7" />
+<img width="736" height="424" alt="image" src="https://github.com/user-attachments/assets/b720144a-6a2c-4f56-88b2-9aeda806b5e7" />
 
 
 ## Factory IoT Simulator — digital twin for an Industry 4.0 pipeline
